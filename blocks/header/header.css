@@ -15,7 +15,20 @@ header nav {
   max-width: 1264px;
   height: var(--nav-height);
   padding: 0 1rem;
-  background-color: var(--background-color);
+  background-color: #44505e;
+  link-color: #fff;
+  color: #fff;
+  text-transform: uppercase;
+  color: #ddd;
+    font-weight: 700;
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 17px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    transition: color .2s;
+    text-align: left;
   font-family: var(--body-font-family);
 }
 
